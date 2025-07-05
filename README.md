@@ -7,11 +7,11 @@ Users can enter their personal and professional details, preview the resume live
 
 ##  Project Features
 
-- 🧑‍💼 Form-based resume input
-- 👀 Live resume preview as you type
-- 📄 Download your resume as a clean PDF
-- 💡 Uses `html2pdf.js` for client-side PDF generation
-- 💻 Fully responsive and minimal design
+-  Form-based resume input
+-  Live resume preview as you type
+-  Download your resume as a clean PDF
+-  Uses `html2pdf.js` for client-side PDF generation
+-  Fully responsive and minimal design
 
 ---
 
